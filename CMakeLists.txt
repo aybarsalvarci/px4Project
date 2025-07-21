@@ -495,3 +495,4 @@ add_custom_target(install_python_requirements
 if(EXISTS "${PX4_SOURCE_DIR}/platforms/${PX4_PLATFORM}/cmake/finalize.cmake")
 	include(finalize)
 endif()
+
