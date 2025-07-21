@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_PX4_PUB_DATA
+	bool "px4_pub_data"
+	default n
+	---help---
+		Enable support for px4_pub_data
