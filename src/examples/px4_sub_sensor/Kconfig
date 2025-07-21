@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_PX4_SUB_SENSOR
+	bool "px4_sub_sensor"
+	default n
+	---help---
+		Enable support to px4_sub_sensor
